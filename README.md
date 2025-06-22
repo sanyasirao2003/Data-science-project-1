@@ -4,14 +4,6 @@
 
 ---
 
-## 🚀 Team UNSTOPPABLES  
-**Team Members:**
-- Mangipudi Sanyasi Rao  
-- R. Ravivarman  
-- S. Gopikrishnan  
-- Nithish Kumar  
-
----
 
 ## 📌 Project Overview  
 **Loan Acceptance Predictor** is an end-to-end machine learning solution that predicts whether a customer will accept a personal loan offer based on their profile. It integrates predictive modeling, data visualization, and a user-friendly Streamlit web interface.
@@ -133,7 +125,7 @@ http://localhost:8501
 ---
 
 ## 📬 Contact  
-**Mangipudi Sanyasi Rao** – [LinkedIn](#) • [Email](#)
+**Mangipudi Sanyasi Rao** – • [Email](sanyasiraomangipudi7@gmail.com)
 
 ---
 
